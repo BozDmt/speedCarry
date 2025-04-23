@@ -1,0 +1,7 @@
+{
+  "name": "speedCarry",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
